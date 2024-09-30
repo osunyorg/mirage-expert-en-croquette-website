@@ -25,4 +25,8 @@ items:
   target: "/campus/"
   kind: page
   children: []
+- title: Formations
+  target: "/formations/"
+  kind: page
+  children: []
 
