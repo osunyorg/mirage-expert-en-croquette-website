@@ -29,4 +29,20 @@ items:
   target: "/formations/"
   kind: page
   children: []
+- title: Projets
+  target: "/projets/"
+  kind: page
+  children: []
+- title: Volumes
+  target: "/volumes/"
+  kind: page
+  children: []
+- title: Papiers
+  target: "/papiers/"
+  kind: page
+  children: []
+- title: Publications HAL
+  target: "/publications/"
+  kind: page
+  children: []
 
