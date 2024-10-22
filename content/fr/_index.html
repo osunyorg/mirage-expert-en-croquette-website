@@ -52,13 +52,15 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 3
+  seconds: 4
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -79,16 +81,24 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Titre 1
-    slug: "titre-1"
-    position: 1
-    rank: 2
+    slug: >-
+      titre-1
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       Nom du bloc
+    slug: >-
+      nom-du-bloc
     ranks:
       self: 3
     data:
@@ -112,6 +122,8 @@ contents:
     template: datatable
     title: >-
       Nom du tableau
+    slug: >-
+      nom-du-tableau
     ranks:
       self: 3
     data:
@@ -125,7 +137,6 @@ contents:
 
       caption: >-
         
-
 
 
 
