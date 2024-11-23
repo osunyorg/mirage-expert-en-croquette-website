@@ -18,6 +18,7 @@ fr:
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
     administrators: /equipe/:slug/roles/
+    authors: /equipe/:slug/actualites/
     teachers: /equipe/:slug/programs/
   taxonomies:
     administrator: administrators
