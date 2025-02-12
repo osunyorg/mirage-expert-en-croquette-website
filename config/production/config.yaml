@@ -2,6 +2,11 @@
 
 baseURL: https://expert-en-croquette-website.mirage.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: da9328d2-7898-4a51-a67d-ca97cc8e95b3
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
