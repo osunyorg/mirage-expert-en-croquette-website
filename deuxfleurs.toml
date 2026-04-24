@@ -13,32 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/agenda/2024-05-16-anniversaire/"
-to = "/agenda/2024/anniversaire/"
-
-[[redirects]]
-from = "/agenda/2024-01-27-festnoz/"
-to = "/agenda/2024/festnoz/"
-
-[[redirects]]
-from = "/agenda/2024-05-28-fest-deiz/"
-to = "/agenda/2024/fest-deiz/"
-
-[[redirects]]
-from = "/agenda/expert-en-croquette/"
-to = "/agenda/offre-de-formation/expert-en-croquette/"
-
-[[redirects]]
-from = "/agenda/2024-05-24-depart/"
-to = "/agenda/2024/depart/"
-
-[[redirects]]
-from = "/equipe/senior/"
-to = "/equipe/categories/senior/"
-
-[[redirects]]
-from = "/agenda/2024-05-20-reunion/"
-to = "/agenda/2024/reunion/"
-
